@@ -1,0 +1,833 @@
+PACKAGE,NAME,OFFICIAL_CATEGORY,SRC,CUSTOM_CATEGORY
+Com.sktelecom.minit,T world,LIFESTYLE,play.google.com,INFO
+Kal.FlightInfo,(Discontinued) Korean Air,TRAVEL_AND_LOCAL,apkpure.com,INFO
+android,안드로이드 시스템,TOOLS,handlabeled,SYSTEM
+app.hybirds.skypeople,스카이피플 (스피) : 직장 인증을 통한 안전한 소개팅,DATING,play.google.com,SOCIAL
+app.intra,Intra,TOOLS,play.google.com,SYSTEM
+app.zenly.locator,zenly - your world,SOCIAL,play.google.com,SOCIAL
+biz.nion.facematchtest,NION Face Match (face recognition),ENTERTAINMENT,play.google.com,ENTER
+bubble.shoot.bubbles.game.saga.world,Bubble Shooter,GAME_CASUAL,play.google.com,ENTER
+cc.forestapp,Forest -Focus for Productivity,PRODUCTIVITY,play.google.com,WORK
+cheehoon.ha.particulateforecaster,"미세미세 - 미세먼지, 날씨, WHO기준, 알람, 위젯, 지도",WEATHER,play.google.com,INFO
+cn.jingling.motu.photowonder,PhotoWonder: Pro Beauty Photo Editor&Collage Maker,PHOTOGRAPHY,apkpure.com,ENTER
+co.kr.daisomall,다이소몰 - 다이소 온라인쇼핑몰,SHOPPING,play.google.com,INFO
+com.HitP2P.CashLeaflet,"FNB 캐시리플렛 - 블록체인 리워드앱 ! 포인트,코인,용돈,알바,광고,적립",ENTERTAINMENT,play.google.com,ENTER
+com.Monthly23.SwipeBrickBreaker,Swipe Brick Breaker,GAME_ARCADE,play.google.com,ENTER
+com.Mouse_Duck.DoveGame,Pigeon Raising,GAME_CASUAL,play.google.com,ENTER
+com.Slack,Slack,BUSINESS,play.google.com,WORK
+com.SunHan,파일노리,VIDEO_PLAYERS_AND_EDITORS,handlabeled,ENTER
+com.TouchEn.mVaccine.webs,터치엔 엠백신 for Web(기업용),FINANCE,play.google.com,WORK
+com.aboutjsp.memowidget,Memo Widget (to-dos&ideas),LIFESTYLE,play.google.com,INFO
+com.aboutjsp.thedaybefore,TheDayBefore (days countdown),LIFESTYLE,play.google.com,INFO
+com.actionersl.onlharu,DoIt Today(DoIT)  Lite  - Circular Schedule Table,PRODUCTIVITY,play.google.com,WORK
+com.adguard.android,AdGuard,TOOLS,apkcombo.com,SYSTEM
+com.adobe.reader,Adobe Acrobat Reader: Edit PDF,PRODUCTIVITY,play.google.com,WORK
+com.ahnlab.v3mobileplus,V3 Mobile Plus,TOOLS,play.google.com,SYSTEM
+com.ahnlab.v3mobilesecurity.soda,V3 Mobile Security-AntiMalware,TOOLS,play.google.com,SYSTEM
+com.aia.vitality.kr,AIA Vitality x T건강습관,HEALTH_AND_FITNESS,play.google.com,HEALTH
+com.airbnb.android,Airbnb,TRAVEL_AND_LOCAL,play.google.com,INFO
+com.airfightwar.thunderbattle,Call of Thunder War- Air Shooting Game,GAME_ACTION,apkcombo.com,ENTER
+com.airvisual,IQAir AirVisual | Air Quality,WEATHER,play.google.com,INFO
+com.albamon.app,알바몬 - 알바 채용 전문 플랫폼,BUSINESS,play.google.com,WORK
+com.alensw.PicFolder,QuickPic - Photo Gallery with Google Drive Support,PHOTOGRAPHY,apkcombo.com,ENTER
+com.alibaba.aliexpresshd,AliExpress,SHOPPING,play.google.com,INFO
+com.amazon.avod.thirdpartyclient,Amazon Prime Video,ENTERTAINMENT,play.google.com,ENTER
+com.amazon.kindle,Amazon Kindle,BOOKS_AND_REFERENCE,play.google.com,INFO
+com.amazon.mShop.android.shopping,Amazon Shopping,SHOPPING,play.google.com,INFO
+com.android.bluetooth,Bluetooth Share,TOOLS,apkcombo.com,SYSTEM
+com.android.calculator2,HTC Calculator,TOOLS,apkcombo.com,SYSTEM
+com.android.calendar,Mi Calendar,TOOLS,apkcombo.com,SYSTEM
+com.android.camera,Redmi Camera,TOOLS,apkcombo.com,SYSTEM
+com.android.captiveportallogin,CaptivePortalLogin,TOOLS,apkcombo.com,SYSTEM
+com.android.chrome,Google Chrome: Fast & Secure,COMMUNICATION,play.google.com,SOCIAL
+com.android.contacts,Xiaomi Contacts and dialer,TOOLS,apkcombo.com,SYSTEM
+com.android.deskclock,HUAWEI Clock,TOOLS,apkcombo.com,SYSTEM
+com.android.documentsui,Files,TOOLS,apkcombo.com,SYSTEM
+com.android.gallery3d,LG Gallery,TOOLS,apkcombo.com,SYSTEM
+com.android.htmlviewer,HTML Viewer,TOOLS,apkcombo.com,SYSTEM
+com.android.incallui,HTC Phone,TOOLS,apkcombo.com,SYSTEM
+com.android.mms,MIUI Messaging,TOOLS,apkcombo.com,SYSTEM
+com.android.nfc,Nfc Service,TOOLS,apkcombo.com,SYSTEM
+com.android.packageinstaller,Package installer,TOOLS,apkcombo.com,SYSTEM
+com.android.phone,Phone Services,TOOLS,apkcombo.com,SYSTEM
+com.android.printspooler,Print Spooler,TOOLS,apkcombo.com,SYSTEM
+com.android.providers.media,Media Storage,TOOLS,apkcombo.com,SYSTEM
+com.android.server.telecom,Phone Call Management,TOOLS,apkcombo.com,SYSTEM
+com.android.settings,Settings,TOOLS,apkcombo.com,SYSTEM
+com.android.settings.intelligence,Settings Suggestions,TOOLS,apkcombo.com,SYSTEM
+com.android.settingsaccessibility,Accessibility,TOOLS,apkcombo.com,SYSTEM
+com.android.systemui,System UI,TOOLS,apkcombo.com,SYSTEM
+com.android.vending,Google Play Store,TOOLS,apkcombo.com,SYSTEM
+com.android.vpndialogs,VpnDialogs,TOOLS,apkcombo.com,SYSTEM
+com.apple.android.music,Apple Music,MUSIC_AND_AUDIO,play.google.com,ENTER
+com.astroframe.seoulbus,KakaoBus,MAPS_AND_NAVIGATION,play.google.com,INFO
+com.atlas.moyamo,"모야모 (식물 식별, 병충해 진단)",EDUCATION,play.google.com,WORK
+com.atsolution.android.uotp2,U-OTP+,TOOLS,play.google.com,SYSTEM
+com.avast.android.mobilesecurity,Avast Antivirus & Security,TOOLS,play.google.com,SYSTEM
+com.awesapp.isafe,iSafe,TOOLS,play.google.com,SYSTEM
+com.bamnetworks.mobile.android.gameday.atbat,MLB,SPORTS,play.google.com,ENTER
+com.bandainamcoent.imas_millionlive_theaterdays,アイドルマスター ミリオンライブ！ シアターデイズ,GAME_MUSIC,play.google.com,ENTER
+com.banhala.android,에이블리 - 3천만의 AI 쇼핑메이트,SHOPPING,play.google.com,INFO
+com.bdsdiet_app,"부동산다이어트 - 아파트 실거래가, 시세, 부동산 정보",HOUSE_AND_HOME,apkpure.com,INFO
+com.bleacherreport.android.teamstream,Bleacher Report: Sports News,SPORTS,play.google.com,ENTER
+com.blizzard.wtcg.hearthstone,Hearthstone,GAME_CARD,play.google.com,ENTER
+com.bloomberg.android.plus,Bloomberg: Finance Market News,NEWS_AND_MAGAZINES,play.google.com,INFO
+com.blust.fivearrows,Last Arrows,GAME_ACTION,play.google.com,ENTER
+com.booking,Booking.com: Hotels and more,TRAVEL_AND_LOCAL,play.google.com,INFO
+com.brandicorp.brandi3,브랜디 - 여성 패션 쇼핑앱,SHOPPING,play.google.com,INFO
+com.briniclemobile.wibeetalk,WiBee Talk,COMMUNICATION,apkpure.com,SOCIAL
+com.bulb.alchemy,Alchemy-나만의 실험실,GAME_EDUCATIONAL,play.google.com,ENTER
+com.buzzpia.aqua.launcher,Buzz Launcher-Smart&Free Theme,PERSONALIZATION,apkcombo.com,SYSTEM
+com.byapps.maybebaby,메이비베이비 MAYBE BABY,SHOPPING,play.google.com,INFO
+com.byapps.ririnco,리리앤코,SHOPPING,play.google.com,INFO
+com.ca_smart.izonemail,IZ*ONE Private Mail,ENTERTAINMENT,play.google.com,ENTER
+com.cafe24.ec.plusandar01,ANDAR,SHOPPING,play.google.com,INFO
+com.cafe24.ec.pluscookat,오먹상점,SHOPPING,apkcombo.com,INFO
+com.campmobile.launcher,LINE Launcher,PERSONALIZATION,apkpure.com,SYSTEM
+com.campmobile.snow,SNOW,PHOTOGRAPHY,play.google.com,ENTER
+com.canva.editor,"Canva: Design, Photo & Video",ART_AND_DESIGN,play.google.com,ENTER
+com.cashslide,캐시슬라이드 - 첫화면에 적립을 더하다,SOCIAL,play.google.com,SOCIAL
+com.cashwalk.cashwalk,캐시워크 - 적립형 만보기 첫화면,HEALTH_AND_FITNESS,play.google.com,HEALTH
+com.cgv.android.movieapp,CGV,ENTERTAINMENT,play.google.com,ENTER
+com.champstudy.app.hackers,해커스인강 챔프스터디,EDUCATION,apkpure.com,WORK
+com.chanel.weather.forecast.accu,Weather forecast,WEATHER,play.google.com,INFO
+com.chbreeze.jikbang4a,Zigbang,HOUSE_AND_HOME,play.google.com,INFO
+com.chegg,Chegg Study - Homework Help,EDUCATION,play.google.com,WORK
+com.chngas.hpage,CNCITY에너지 모바일 앱,LIFESTYLE,play.google.com,INFO
+com.citymapper.app.release,Citymapper: The Ultimate Transport App,MAPS_AND_NAVIGATION,play.google.com,INFO
+com.cjkoreaexpress,CJ대한통운 택배,LIFESTYLE,play.google.com,INFO
+com.cklee.imageresizer,Image Resizer,TOOLS,play.google.com,SYSTEM
+com.classumreactnativeapp.android,Classum,COMMUNICATION,play.google.com,SOCIAL
+com.cleanmaster.mguard,"Clean Master Antivirus, Applock & Cleaner",TOOLS,apkpure.com,SYSTEM
+com.cleanmaster.security,"Security Master Antivirus, VPN, AppLock, Booster",TOOLS,apkpure.com,SYSTEM
+com.cloudflare.onedotonedotonedotone,1.1.1.1: Faster & Safer Internet,TOOLS,play.google.com,SYSTEM
+com.cloudmosa.puffin,Puffin Browser Pro,COMMUNICATION,play.google.com,SOCIAL
+com.cloudmosa.puffinFree,Puffin Web Browser,COMMUNICATION,play.google.com,SOCIAL
+com.cntt.lotteria,롯데리아,LIFESTYLE,apkcombo.com,INFO
+com.coinmarket.android,"CoinView: Bitcoin, Altcoin, & Crypto Portfolio App",FINANCE,play.google.com,WORK
+com.coinpushapp,Coinpush - 비트코인 푸시알림,FINANCE,apkcombo.com,WORK
+com.com2us.imo.normal.freefull.google.global.android.common,The World of Magic: IMO,GAME_ROLE_PLAYING,play.google.com,ENTER
+com.com2us.imo.normal.freefull.tstore.kr.android.common,아이모,GAME_ROLE_PLAYING,handlabeled,ENTER
+com.com2us.ninepb3d.normal.freefull.google.global.android.common,MLB 9 Innings 22,GAME_SPORTS,play.google.com,ENTER
+com.com2us.probaseball3d.normal.freefull.google.global.android.common,컴투스프로야구2022,GAME_SPORTS,play.google.com,ENTER
+com.com2us.smon.normal.freefull.google.kr.android.common,Summoners War,GAME_ROLE_PLAYING,play.google.com,ENTER
+com.cornago.stefano.lapse,Lapse: A Forgotten Future,GAME_STRATEGY,play.google.com,ENTER
+com.coupang.mobile,쿠팡 (Coupang),SHOPPING,play.google.com,INFO
+com.cpu.free.dsemulatorv6,Free DS Emulator - For Android,GAME_ARCADE,play.google.com,ENTER
+com.croquis.zigzag,지그재그 - 내 맘대로 쇼핑앱,SHOPPING,play.google.com,INFO
+com.cultsotry.yanolja.nativeapp,야놀자 - 누구나 마음 편히 놀 수 있게,TRAVEL_AND_LOCAL,play.google.com,INFO
+com.cultureland.ver2,컬쳐랜드[문화상품권],LIFESTYLE,play.google.com,INFO
+com.cyworld.camera,Cymera - Photo Editor Collage,PHOTOGRAPHY,play.google.com,ENTER
+com.daishin,대신증권 CYBOS Touch,FINANCE,play.google.com,WORK
+com.daou.herosw,"키움증권 영웅문SG 해외주식, 해외선물옵션, FX마진",FINANCE,play.google.com,WORK
+com.daumkakao.android.brunchapp,브런치 - 좋은 글과 작가를 만나는 공간,SOCIAL,play.google.com,SOCIAL
+com.dcinside.app,디시인사이드 dcinside,SOCIAL,apkpure.com,SOCIAL
+com.dencreak.dlcalculator,ClevCalc - Calculator,PRODUCTIVITY,play.google.com,WORK
+com.dencreak.spbook,ClevMoney - Personal Finance,FINANCE,play.google.com,WORK
+com.devsisters.gb,Cookie Run: OvenBreak,GAME_ARCADE,play.google.com,ENTER
+com.dianxinos.dxbs,DU Battery Saver - Battery Charger & Battery Life,TOOLS,apkcombo.com,SYSTEM
+com.dianxinos.optimizer.duplay,Cache Cleaner-DU Speed Booster (booster & cleaner),TOOLS,apkpure.com,SYSTEM
+com.diet.calorie160105,"다이어트신 - 다이어트 식단, 운동, 다이어리 어플",HEALTH_AND_FITNESS,play.google.com,HEALTH
+com.digibites.accubattery,Accu​Battery,TOOLS,play.google.com,SYSTEM
+com.dingulHangul.dingulHangulKeyboard_dinki,딩굴 한글 키보드,TOOLS,play.google.com,SYSTEM
+com.diotek.sec.lookup.dictionary,Samsung Dictionary,TOOLS,apkcombo.com,SYSTEM
+com.discord,"Discord - Chat, Talk & Hangout",COMMUNICATION,play.google.com,SOCIAL
+com.djbus,DaejeonBus,MAPS_AND_NAVIGATION,play.google.com,INFO
+com.dnt7.threeW,핑크다이어리 - 대한산부인과의사회 공식 생리달력,HEALTH_AND_FITNESS,play.google.com,HEALTH
+com.dola.workout,"ABS Workout - Home Workout, Tabata, HIIT",HEALTH_AND_FITNESS,apkcombo.com,HEALTH
+com.doosandonga.app.dictionary.primeengkor,Prime English-Korean Dict.,BOOKS_AND_REFERENCE,play.google.com,INFO
+com.dorsia.amanda,아만다 - 쉽고 편한 동네친구 만들기,SOCIAL,play.google.com,SOCIAL
+com.dotnbeat.dancing.music.rhythm.handspeed,Dot n Beat - Hand Speed Test,GAME_MUSIC,play.google.com,ENTER
+com.dragonest.autochess.google,Auto Chess,GAME_STRATEGY,play.google.com,ENTER
+com.dropbox.android,Dropbox: Cloud Photo Storage,PRODUCTIVITY,play.google.com,WORK
+com.drycactus.polybridge,Poly Bridge,GAME_SIMULATION,play.google.com,ENTER
+com.dsemu.drastic,DraStic DS Emulator,GAME_ACTION,play.google.com,ENTER
+com.dunamu.exchange,업비트 - 가장 신뢰받는 디지털 자산(비트코인) 거래소,FINANCE,play.google.com,WORK
+com.dunamu.stockplus,StockPlus :  Korean Stocks,FINANCE,play.google.com,WORK
+com.duolingo,Duolingo: language lessons,EDUCATION,play.google.com,WORK
+com.dydbook.bible,성경일독Q (잠금화면에서 성경 한절씩 읽는 습관),BOOKS_AND_REFERENCE,play.google.com,INFO
+com.ea.gp.fifamobile,FIFA Soccer,GAME_SPORTS,play.google.com,ENTER
+com.ebay.kr.auction,Auction,SHOPPING,play.google.com,INFO
+com.ebay.kr.gmarket,Gmarket,SHOPPING,play.google.com,INFO
+com.ebcard.bustago,[공식]전국 시외버스 승차권 통합 예매(버스타고),MAPS_AND_NAVIGATION,play.google.com,INFO
+com.edgames.new19gp,공성삼국:새천하를열다RED,GAME_SIMULATION,play.google.com,ENTER
+com.eg.android.AlipayGphone,Alipay,FINANCE,play.google.com,WORK
+com.ekkorr.endlessfrontier,오늘도 환생,GAME_ROLE_PLAYING,play.google.com,ENTER
+com.elevenst,11st,SHOPPING,play.google.com,INFO
+com.elz.secondhandstore,중고나라 - 국내 최대 중고마켓,SHOPPING,play.google.com,INFO
+com.ember.rpgpuzzle,Dragon Strike: Puzzle RPG,GAME_ROLE_PLAYING,play.google.com,ENTER
+com.enabledaonsoft.thecamp,THE CAMP 대국민 국군 소통 서비스,COMMUNICATION,play.google.com,SOCIAL
+com.enliple.otjalnam,"옷잘남 스타일 좋은 남자들의 필수 앱, 남자쇼핑몰 모음",SHOPPING,apkpure.com,INFO
+com.epost.psf.sdsi,우체국 스마트뱅킹,FINANCE,play.google.com,WORK
+com.epost.psf.ss,우체국 PostPay,FINANCE,play.google.com,WORK
+com.estmob.android.sendanywhere,Send Anywhere (File Transfer),PRODUCTIVITY,play.google.com,WORK
+com.estrongs.android.pop,ES File Explorer File Manager,PRODUCTIVITY,apkpure.com,WORK
+com.estsoft.alarmclock,알람이 - 알람 타이머 정각알림 외출알림 링 스토어,LIFESTYLE,apkcombo.com,INFO
+com.estsoft.alsong,ALSong - Music Player & Lyrics,MUSIC_AND_AUDIO,play.google.com,ENTER
+com.estsoft.alyac,"Dr.Capsule  Antivirus, Cleaner",TOOLS,play.google.com,SYSTEM
+com.estsoft.alzip,ALZip – File Manager & Unzip & Archive,TOOLS,play.google.com,SYSTEM
+com.etudehouse,에뛰드,LIFESTYLE,play.google.com,INFO
+com.evernote,Evernote - Note Organizer,PRODUCTIVITY,play.google.com,WORK
+com.everysing.lysn,Lysn,SOCIAL,play.google.com,SOCIAL
+com.everytime.v2,에브리타임 - 시간표 & 대학교 커뮤니티,SOCIAL,play.google.com,SOCIAL
+com.expressvpn.vpn,ExpressVPN: Fast VPN & Proxy,TOOLS,play.google.com,SYSTEM
+com.eyefilter.nightmode.bluelightfilter,Blue Light Filter - Night Mode,HEALTH_AND_FITNESS,play.google.com,HEALTH
+com.ezhld.recipe,Korean Food Recipes - 10k Recipes,FOOD_AND_DRINK,play.google.com,INFO
+com.facebook.katana,Facebook,SOCIAL,play.google.com,SOCIAL
+com.facebook.lite,Facebook Lite,SOCIAL,play.google.com,SOCIAL
+com.facebook.mlite,Messenger Lite,COMMUNICATION,play.google.com,SOCIAL
+com.facebook.orca,Messenger,COMMUNICATION,play.google.com,SOCIAL
+com.fandom.app,"FANDOM – Videos, News, and Reviews",SOCIAL,play.google.com,SOCIAL
+com.fastaccess.github,FastHub for GitHub,PRODUCTIVITY,apkpure.com,WORK
+com.fatsecret.android,Calorie Counter by FatSecret,HEALTH_AND_FITNESS,play.google.com,HEALTH
+com.fineapp.yogiyo,배달요기요 - 기다림 없는 맛집 배달앱,FOOD_AND_DRINK,play.google.com,INFO
+com.firstscreen.commonsense,"첫화면 상식 - 상식퀴즈, 시사, 일반 상식",EDUCATION,play.google.com,WORK
+com.fitbit.FitbitMobile,Fitbit,HEALTH_AND_FITNESS,play.google.com,HEALTH
+com.fok.fundsupermarket,펀드슈퍼마켓(FOSS),FINANCE,apkcombo.com,WORK
+com.forshared,4shared,ENTERTAINMENT,apkpure.com,ENTER
+com.fourdesire.spacewalk,Walkr: Fitness Space Adventure,GAME_ADVENTURE,play.google.com,ENTER
+com.fridaynoons.playwings,플레이윙즈_매일이 여행 D-day,TRAVEL_AND_LOCAL,play.google.com,INFO
+com.frientrip.frip,"세상 모든 경험의 시작, 프립",LIFESTYLE,play.google.com,INFO
+com.frograms.watcha,WATCHA PEDIA -Movie & TV guide,ENTERTAINMENT,play.google.com,ENTER
+com.frograms.wplay,WATCHA,ENTERTAINMENT,play.google.com,ENTER
+com.funanduseful.earlybirdalarm,Early Bird Alarm Clock,PRODUCTIVITY,play.google.com,WORK
+com.game.kkiruk.myadorablecats,Cats are Cute,GAME_SIMULATION,play.google.com,ENTER
+com.game.ruliweb,루리웹 (RULIWEB),COMMUNICATION,apkcombo.com,SOCIAL
+com.gamestar.perfectpiano,Perfect Piano,MUSIC_AND_AUDIO,play.google.com,ENTER
+com.gamestart.fill,Fill - one-line puzzle game,GAME_PUZZLE,play.google.com,ENTER
+com.gangnam.sister,GangnamUnni - Medical beauty,BEAUTY,play.google.com,INFO
+com.gdcompany.metalmadness,METAL MADNESS PvP: Car Shooter,GAME_ACTION,play.google.com,ENTER
+com.geishatokyo.trafficrun,Traffic Run!: Driving Game,GAME_ACTION,play.google.com,ENTER
+com.genius.android,Genius — Song Lyrics Finder,MUSIC_AND_AUDIO,play.google.com,ENTER
+com.getkeepsafe.applock,App Lock: Fingerprint Password,TOOLS,apkcombo.com,SYSTEM
+com.ggtics.app.lol,YOUR.GGtics - League Of Legends Amazing Stats,ENTERTAINMENT,apkcombo.com,ENTER
+com.gion.android.GnMemoG,"메모G_사진 메모, 비밀 노트, 할일 정리",PRODUCTIVITY,play.google.com,WORK
+com.gismart.realpianofree,Piano - Music Keyboard & Tiles,GAME_MUSIC,play.google.com,ENTER
+com.giumig.apps.bluetoothserialmonitor,Arduino bluetooth controller,TOOLS,play.google.com,SYSTEM
+com.gmail.chodongwon82.big_maker,10000! - original indie puzzle (Big Maker),GAME_PUZZLE,play.google.com,ENTER
+com.goodplay.a511best,착한 음악다운 플레이,VIDEO_PLAYERS_AND_EDITORS,apkcombo.com,ENTER
+com.google.android.apps.authenticator2,Google Authenticator,TOOLS,play.google.com,SYSTEM
+com.google.android.apps.books,Google Play Books & Audiobooks,BOOKS_AND_REFERENCE,play.google.com,INFO
+com.google.android.apps.docs,Google Drive,PRODUCTIVITY,play.google.com,WORK
+com.google.android.apps.docs.editors.docs,Google Docs,PRODUCTIVITY,play.google.com,WORK
+com.google.android.apps.docs.editors.sheets,Google Sheets,PRODUCTIVITY,play.google.com,WORK
+com.google.android.apps.docs.editors.slides,Google Slides,PRODUCTIVITY,play.google.com,WORK
+com.google.android.apps.fitness,Google Fit: Activity Tracking,HEALTH_AND_FITNESS,play.google.com,HEALTH
+com.google.android.apps.googleassistant,Google Assistant,PRODUCTIVITY,play.google.com,WORK
+com.google.android.apps.magazines,Google News - Daily Headlines,NEWS_AND_MAGAZINES,play.google.com,INFO
+com.google.android.apps.maps,Google Maps,TRAVEL_AND_LOCAL,play.google.com,INFO
+com.google.android.apps.messaging,Messages,COMMUNICATION,play.google.com,SOCIAL
+com.google.android.apps.pdfviewer,Google PDF Viewer,PRODUCTIVITY,apkpure.com,WORK
+com.google.android.apps.photos,Google Photos,PHOTOGRAPHY,play.google.com,ENTER
+com.google.android.apps.photos.scanner,PhotoScan by Google Photos,PHOTOGRAPHY,play.google.com,ENTER
+com.google.android.apps.podcasts,Google Podcasts,MUSIC_AND_AUDIO,play.google.com,ENTER
+com.google.android.apps.tachyon,Google Duo,COMMUNICATION,play.google.com,SOCIAL
+com.google.android.apps.translate,Google Translate,TOOLS,play.google.com,SYSTEM
+com.google.android.apps.youtube.music,YouTube Music,MUSIC_AND_AUDIO,play.google.com,ENTER
+com.google.android.calculator,Calculator,TOOLS,play.google.com,SYSTEM
+com.google.android.calendar,Google Calendar,PRODUCTIVITY,play.google.com,WORK
+com.google.android.gm,Gmail,COMMUNICATION,play.google.com,SOCIAL
+com.google.android.gms,Google Play services,TOOLS,play.google.com,SYSTEM
+com.google.android.googlequicksearchbox,Google,TOOLS,play.google.com,SYSTEM
+com.google.android.music,YouTube Music,MUSIC_AND_AUDIO,apkpure.com,ENTER
+com.google.android.packageinstaller,Package installer,TOOLS,apkcombo.com,SYSTEM
+com.google.android.play.games,Google Play Games,ENTERTAINMENT,play.google.com,ENTER
+com.google.android.street,Google Street View,TRAVEL_AND_LOCAL,play.google.com,INFO
+com.google.android.youtube,YouTube,VIDEO_PLAYERS,play.google.com,ENTER
+com.google.chromeremotedesktop,Chrome Remote Desktop,TOOLS,play.google.com,SYSTEM
+com.google.earth,Google Earth,TRAVEL_AND_LOCAL,play.google.com,INFO
+com.gorgeous.liteinternational,Ulike - Define your selfie in trendy style,PHOTOGRAPHY,play.google.com,ENTER
+com.grampus.cookingadventureforkakao,마이리틀셰프,GAME_CASUAL,play.google.com,ENTER
+com.greencar,그린카 – 이동을 새로 그리다,MAPS_AND_NAVIGATION,play.google.com,INFO
+com.gsr.gs25,나만의냉장고(GS25),LIFESTYLE,play.google.com,INFO
+com.habitrpg.android.habitica,Habitica: Gamify Your Tasks,PRODUCTIVITY,play.google.com,WORK
+com.hackers.app.hackersmp3,해커스 MP3 플레이어 - 무료 토익 토플 영어 리스닝,EDUCATION,play.google.com,WORK
+com.hanabank.ebk.channel.android.hananbank,(구)하나원큐 - 종료예정,FINANCE,play.google.com,WORK
+com.hanaskcard.paycla,하나카드(원큐페이),FINANCE,play.google.com,WORK
+com.hanaskcard.rocomo.potal,(구)하나카드,FINANCE,play.google.com,WORK
+com.hancom.office.editor.sec,한컴오피스,PRODUCTIVITY,handlabeled,WORK
+com.hancom.office.viewer,Hancom Office S Viewer,TOOLS,apkcombo.com,SYSTEM
+com.hecorat.screenrecorder.free,"AZ Screen Recorder - Video Recorder, Livestream",VIDEO_PLAYERS,play.google.com,ENTER
+com.hellowo.day2life,TimeBlocks -Calendar/Todo/Note,PRODUCTIVITY,play.google.com,WORK
+com.hikaru.photowidgetad,Animated Photo Widget,PHOTOGRAPHY,play.google.com,ENTER
+com.hippo.ehviewer,EhViewer,TOOLS,apkcombo.com,SYSTEM
+com.hm.goe,H&M - we love fashion,LIFESTYLE,play.google.com,INFO
+com.hogangnono.hogangnono,호갱노노 - 아파트 실거래가 조회 부동산앱,HOUSE_AND_HOME,play.google.com,INFO
+com.homeplus.myhomeplus,마이 홈플러스,LIFESTYLE,play.google.com,INFO
+com.hpapp,해피포인트,LIFESTYLE,play.google.com,INFO
+com.hrc.mobilo,한국리서치 모바일CX+(MobileCX+),LIFESTYLE,play.google.com,INFO
+com.hughesmedia.big_finish,Big Finish Audiobook Player,BOOKS_AND_REFERENCE,play.google.com,INFO
+com.humanhelper.forhuman.quick,remember to do,PRODUCTIVITY,play.google.com,WORK
+com.hyundaicard.appcard,현대카드,FINANCE,play.google.com,WORK
+com.ibillstudio.thedaycouple,THE COUPLE (Days in Love),LIFESTYLE,play.google.com,INFO
+com.ichano.athome.avs,AtHome Video Streamer-turn phone into IP camera,TOOLS,play.google.com,SYSTEM
+com.ijinshan.kbatterydoctor_en,Battery Doctor Battery Life Saver & Battery Cooler,TOOLS,apkpure.com,SYSTEM
+com.iloen.melon,멜론,MUSIC_AND_AUDIO,play.google.com,ENTER
+com.ilongyuan.autochess.ly_pre,Auto Chess,GAME_STRATEGY,apkpure.com,ENTER
+com.imoxion.sensmobile,카이스트 모바일 메일,COMMUNICATION,handlabeled,SOCIAL
+com.inbody2014.inbody,InBody,HEALTH_AND_FITNESS,play.google.com,HEALTH
+com.infraware.office.link,"Polaris Office - Edit,View,PDF",PRODUCTIVITY,play.google.com,WORK
+com.initialcoms.ridi,"리디 - 웹툰, 웹소설, 전자책 모두 여기에!",BOOKS_AND_REFERENCE,play.google.com,INFO
+com.instagram.android,Instagram,SOCIAL,play.google.com,SOCIAL
+com.interpark.shop,인터파크,SHOPPING,play.google.com,INFO
+com.intsig.camscanner,CamScanner - PDF Scanner App,PRODUCTIVITY,play.google.com,WORK
+com.isharing.isharing,iSharing: GPS Location Tracker,COMMUNICATION,play.google.com,SOCIAL
+com.jabra.moments,Jabra Sound+,PRODUCTIVITY,play.google.com,WORK
+com.jee.timer,Multi Timer StopWatch,TOOLS,play.google.com,SYSTEM
+com.jnhstudio.tbs_AndroidApp,TBS,LIFESTYLE,play.google.com,INFO
+com.joara.mobile,웹소설 조아라,BOOKS_AND_REFERENCE,play.google.com,INFO
+com.joeware.android.gpulumera,Candy Camera - photo editor,PHOTOGRAPHY,play.google.com,ENTER
+com.joymax.candypang2,캔디팡 : 쥬시월드,GAME_PUZZLE,play.google.com,ENTER
+com.joymax.wind3,윈드러너Z,GAME_ADVENTURE,play.google.com,ENTER
+com.jpbrothers.android.pictail.sub7,PICTAIL - NewYork,PHOTOGRAPHY,play.google.com,ENTER
+com.jushine.cstandard,꼼꼼달력메모,PRODUCTIVITY,play.google.com,WORK
+com.kakao.cheez,KakaoTalk Cheez,PHOTOGRAPHY,apkpure.com,ENTER
+com.kakao.i.connect,헤이카카오 Hey Kakao,LIFESTYLE,play.google.com,INFO
+com.kakao.page,카카오페이지 KakaoPage,ENTERTAINMENT,play.google.com,ENTER
+com.kakao.story,KakaoStory,SOCIAL,play.google.com,SOCIAL
+com.kakao.talk,KakaoTalk : Messenger,COMMUNICATION,play.google.com,SOCIAL
+com.kakao.taxi,"Kakao T - Taxi, Driver, Bike",MAPS_AND_NAVIGATION,play.google.com,INFO
+com.kakaobank.channel,카카오뱅크,FINANCE,play.google.com,WORK
+com.kakaogames.friendsKing,Friends Popcorn,GAME_PUZZLE,play.google.com,ENTER
+com.kakaogames.friendsTower,프렌즈타워,GAME_PUZZLE,play.google.com,ENTER
+com.kakaogames.friendsTown,프렌즈타운,GAME_PUZZLE,play.google.com,ENTER
+com.kakaogames.friendsracing,프렌즈레이싱,GAME_RACING,play.google.com,ENTER
+com.kakarod.bighunter,Big Hunter,GAME_ACTION,play.google.com,ENTER
+com.kbcard.cxh.appcard,KB Pay,FINANCE,play.google.com,WORK
+com.kbcard.kat.liivmate,리브메이트,FINANCE,play.google.com,WORK
+com.kbcard.kbkookmincard,KB국민카드,FINANCE,play.google.com,WORK
+com.kbsec.mts.iplustarngm2,KB증권  'M-able' (마블) - 대표MTS (비대면계좌개설 포함),FINANCE,play.google.com,WORK
+com.kbstar.kbbank,KB국민은행 스타뱅킹,FINANCE,play.google.com,WORK
+com.kbstar.liivbank,리브 - 종료예정,FINANCE,play.google.com,WORK
+com.kbstar.smartotp,KB스마트원통합인증,FINANCE,play.google.com,WORK
+com.kbstar.starpush,KB스타알림,FINANCE,play.google.com,WORK
+com.kfmes.subway,지하철 노선도,TRAVEL_AND_LOCAL,play.google.com,INFO
+com.kia.red,기아 VIK,AUTO_AND_VEHICLES,play.google.com,INFO
+com.kmplayerpro,"PRO-Video player KM, HD 4K Perfect Player-MOV, AVI",VIDEO_PLAYERS_AND_EDITORS,apkcombo.com,ENTER
+com.korail.talk,KorailTalk,TRAVEL_AND_LOCAL,play.google.com,INFO
+com.kscc.scxb.mbl,[공식]고속버스 티머니,MAPS_AND_NAVIGATION,play.google.com,INFO
+com.kscc.xzz.mbl,[공식]시외버스 티머니,TRAVEL_AND_LOCAL,play.google.com,INFO
+com.kt.airmap,"AirMapKorea - 미세,WHO,날씨,위젯,에어맵",WEATHER,play.google.com,INFO
+com.kt.android.showtouch,CLiP,LIFESTYLE,play.google.com,INFO
+com.kt.ktauth,PASS by KT,LIFESTYLE,play.google.com,INFO
+com.kt.mtmoney,모바일티머니,MAPS_AND_NAVIGATION,play.google.com,INFO
+com.kt.olleh.storefront,원스토어,TOOLS,handlabeled,SYSTEM
+com.kt.ollehfamilybox,KT 패밀리박스,LIFESTYLE,play.google.com,INFO
+com.kt.otv,seezn(시즌) - 오늘의 즐거운 습관!,ENTERTAINMENT,play.google.com,ENTER
+com.kt.ydatabox,Y박스,LIFESTYLE,play.google.com,INFO
+com.ktcs.whowho,whowho - Caller ID & Block,LIFESTYLE,play.google.com,INFO
+com.ktmusic.geniemusic,지니뮤직 - genie,MUSIC_AND_AUDIO,play.google.com,ENTER
+com.ktshow.cs,마이 케이티,LIFESTYLE,play.google.com,INFO
+com.kwalee.drawit,Draw it,GAME_ARCADE,play.google.com,ENTER
+com.leaone.btcontrol.en,Leaone,TOOLS,play.google.com,SYSTEM
+com.lezhin.comics,Lezhin Comics - Daily Releases,COMICS,play.google.com,ENTER
+com.lge.appbox.client,App Updates,TOOLS,apkcombo.com,SYSTEM
+com.lge.bluetoothsetting,Bluetooth,TOOLS,apkcombo.com,SYSTEM
+com.lge.camera,LG Camera,PHOTOGRAPHY,apkcombo.com,ENTER
+com.lge.clock,LG Clock,TOOLS,apkcombo.com,SYSTEM
+com.lge.ellievision,QLens,TOOLS,apkcombo.com,SYSTEM
+com.lge.email,Email,TOOLS,apkcombo.com,SYSTEM
+com.lge.eula,Terms of Use for LG apps,TOOLS,apkcombo.com,SYSTEM
+com.lge.filemanager,LG File Manager,TOOLS,apkcombo.com,SYSTEM
+com.lge.hifirecorder,Audio Recorder,TOOLS,apkcombo.com,SYSTEM
+com.lge.ime,LG Keyboard,TOOLS,apkcombo.com,SYSTEM
+com.lge.launcher2,LG Home(UX 4.0),TOOLS,apkcombo.com,SYSTEM
+com.lge.launcher3,LG Home,TOOLS,apkcombo.com,SYSTEM
+com.lge.lgdmsclient,Software update,TOOLS,apkcombo.com,SYSTEM
+com.lge.lgpay,LG Pay,TOOLS,apkpure.com,SYSTEM
+com.lge.lgworld,LG SmartWorld,TOOLS,apkcombo.com,SYSTEM
+com.lge.lifetracker,LG Health,HEALTH_AND_FITNESS,play.google.com,HEALTH
+com.lge.lockscreensettings,LG LockScreenSettings,TOOLS,apkcombo.com,SYSTEM
+com.lge.music,LG Music,TOOLS,apkcombo.com,SYSTEM
+com.lge.networksettings,Network,TOOLS,apkcombo.com,SYSTEM
+com.lge.phonemanagement,Smart Doctor,TOOLS,apkcombo.com,SYSTEM
+com.lge.privacylock,Content lock,TOOLS,apkcombo.com,SYSTEM
+com.lge.qmemoplus,LG QuickMemo+,TOOLS,apkcombo.com,SYSTEM
+com.lge.settings.easy,Settings,TOOLS,apkcombo.com,SYSTEM
+com.lge.shutdownmonitor,Shutdown Monitor,TOOLS,apkcombo.com,SYSTEM
+com.lge.signboard,Second screen,TOOLS,apkcombo.com,SYSTEM
+com.lge.sizechangable.weather,LG Weather,TOOLS,apkcombo.com,SYSTEM
+com.lge.smartsharepush,File sharing,TOOLS,apkcombo.com,SYSTEM
+com.lge.tdmb,LG TV,TOOLS,apkcombo.com,SYSTEM
+com.lge.updatecenter,Update Center,TOOLS,apkcombo.com,SYSTEM
+com.lge.videoplayer,LG Video,TOOLS,apkcombo.com,SYSTEM
+com.lge.videostudio,Quick Video Editor,TOOLS,apkcombo.com,SYSTEM
+com.lge.voicecare,보이스 케어,TOOLS,handlabeled,SYSTEM
+com.lge.voicerecorder,LG Voice Recorder,TOOLS,apkcombo.com,SYSTEM
+com.lge.wifisettings,LG Wi-Fi,TOOLS,apkcombo.com,SYSTEM
+com.lgeha.nuts,LG ThinQ,LIFESTYLE,play.google.com,INFO
+com.lguplus.appstore,원스토어,TOOLS,handlabeled,SYSTEM
+com.lguplus.mobile.cs,U+ 고객센터,LIFESTYLE,play.google.com,INFO
+com.lguplus.smartotp,PASS by U+ 모든 인증 PASS앱 하나로!,FINANCE,play.google.com,WORK
+com.life360.android.safetymapd,Life360: Find Family & Friends,LIFESTYLE,play.google.com,INFO
+com.linecorp.b612.android,B612 Camera&Photo/Video Editor,PHOTOGRAPHY,play.google.com,ENTER
+com.linecorp.foodcam.android,Foodie - Camera for life,PHOTOGRAPHY,play.google.com,ENTER
+com.linkzen.app,키움증권 영웅문S,FINANCE,play.google.com,WORK
+com.lonelycatgames.Xplore,X-plore File Manager,TOOLS,apkpure.com,SYSTEM
+com.looket.wconcept,W컨셉 - 온라인 패션 플랫폼,SHOPPING,play.google.com,INFO
+com.lotte.lottedutyfree,LOTTE DUTY FREE,SHOPPING,play.google.com,INFO
+com.lottemembers.android,L.POINT with L.PAY,LIFESTYLE,play.google.com,INFO
+com.lotteworld.android.lottemagicpass,LOTTE WORLD Magicpass,ENTERTAINMENT,play.google.com,ENTER
+com.lpoint.moalock,"모아락 - L.POINT 첫화면 (엘포인트, 포인트, 적립)",LIFESTYLE,play.google.com,INFO
+com.luckyspring.browser,동영상다운 프로,PRODUCTIVITY,apkcombo.com,WORK
+com.lunatouch.eyefilter.pro,EyeFilter PRO - Bluelight,HEALTH_AND_FITNESS,apkcombo.com,HEALTH
+com.luuaz.screenoffbutton,Screen Off Button,TOOLS,apkcombo.com,SYSTEM
+com.makerproject.kevin.myapplication1,Unknown,UNKNOWN,handlabeled,UNKNOWN
+com.makeshop.malltail,몰테일 - 해외직구의 시작(배송대행 No. 1),SHOPPING,play.google.com,INFO
+com.makeshop.podbbang,"국내1위 팟캐스트, 오디오 플랫폼 팟빵 : 오디오북, podcast, audiobook",ENTERTAINMENT,play.google.com,ENTER
+com.makeshop.powerapp.label55,시크릿라벨 - SecretLabel,SHOPPING,play.google.com,INFO
+com.makeshop.powerapp.stlsnow7,에스티엘 STL,SHOPPING,play.google.com,INFO
+com.malangstudio.alarmmon,AlarmMon,LIFESTYLE,play.google.com,INFO
+com.mangoplate,MangoPlate - Restaurant Search,FOOD_AND_DRINK,play.google.com,INFO
+com.markmount.wadiz,와디즈(wadiz) - 라이프디자인 펀딩플랫폼,LIFESTYLE,play.google.com,INFO
+com.mathpresso.qandateacher,QANDA Teacher: Solve&Earn cash,EDUCATION,play.google.com,WORK
+com.maximkorea.android,Maxim Korea,NEWS_AND_MAGAZINES,play.google.com,INFO
+com.maximolab.followeranalyzer,Follower Analyzer for Instagram,TOOLS,play.google.com,SYSTEM
+com.medium.reader,Medium,NEWS_AND_MAGAZINES,play.google.com,INFO
+com.megabox.mop,메가박스(Megabox),ENTERTAINMENT,play.google.com,ENTER
+com.mi.android.globalFileexplorer,File Manager : free and easily,TOOLS,play.google.com,SYSTEM
+com.miHoYo.bh3korea,붕괴3rd,GAME_ACTION,play.google.com,ENTER
+com.microsoft.appmanager,Link to Windows,PRODUCTIVITY,play.google.com,WORK
+com.microsoft.kapp,Microsoft Band - Microsoft Health App,HEALTH_AND_FITNESS,apkcombo.com,HEALTH
+com.microsoft.launcher,Microsoft Launcher,PERSONALIZATION,play.google.com,SYSTEM
+com.microsoft.office.excel,Microsoft Excel: Spreadsheets,PRODUCTIVITY,play.google.com,WORK
+com.microsoft.office.onenote,Microsoft OneNote: Save Ideas and Organize Notes,PRODUCTIVITY,play.google.com,WORK
+com.microsoft.office.powerpoint,Microsoft PowerPoint,PRODUCTIVITY,play.google.com,WORK
+com.microsoft.office.word,Microsoft Word: Edit Documents,PRODUCTIVITY,play.google.com,WORK
+com.microsoft.skydrive,Microsoft OneDrive,PRODUCTIVITY,play.google.com,WORK
+com.miraeasset.smartasset,미래에셋증권 m.ALL (계좌개설포함),FINANCE,play.google.com,WORK
+com.miraeasset.trade,미래에셋증권 m.Stock (계좌개설포함),FINANCE,play.google.com,WORK
+com.miui.calculator,Calculator,TOOLS,play.google.com,SYSTEM
+com.miui.cleanmaster,Mi Cleaner,TOOLS,apkcombo.com,SYSTEM
+com.miui.gallery,MIUI Gallery,TOOLS,apkcombo.com,SYSTEM
+com.miui.home,MIUI System Launcher,TOOLS,apkcombo.com,SYSTEM
+com.miui.powerkeeper,Battery and Performance,TOOLS,apkcombo.com,SYSTEM
+com.miui.securitycenter,Xiaomi Security,TOOLS,apkcombo.com,SYSTEM
+com.mo.kosaf,한국장학재단,EDUCATION,play.google.com,WORK
+com.mobirix.swipebrick,Bricks Breaker Puzzle,GAME_ARCADE,play.google.com,ENTER
+com.monomob.omok,오목,GAME_BOARD,play.google.com,ENTER
+com.monpub.namuwiki,나무위키뷰어,BOOKS_AND_REFERENCE,play.google.com,INFO
+com.mozzet.lookpin,룩핀 - 국내 최초 남성 패션앱,SHOPPING,play.google.com,INFO
+com.mt.mtxx.mtxx,Meitu- Photo & Video Editor,PHOTOGRAPHY,play.google.com,ENTER
+com.musinsa.store,온라인 패션 스토어 무신사,SHOPPING,play.google.com,INFO
+com.mwos2.mcdelivery,(공식) 맥도날드 맥딜리버리 배달,FOOD_AND_DRINK,play.google.com,INFO
+com.mxtech.videoplayer.ad,MX Player,VIDEO_PLAYERS,play.google.com,ENTER
+com.mysmilepay.app,스마일페이 SmilePay – 똑똑한 쇼핑습관,LIFESTYLE,play.google.com,INFO
+com.nate.android.portalmini,nate,BOOKS_AND_REFERENCE,play.google.com,INFO
+com.naver.labs.translator,Naver Papago - AI Translator,TOOLS,play.google.com,SYSTEM
+com.naver.naveraudio,Audioclip - audiobooks & ASMR,ENTERTAINMENT,play.google.com,ENTER
+com.naver.vapp,V LIVE,ENTERTAINMENT,play.google.com,ENTER
+com.naver.vibe,네이버 VIBE (바이브),MUSIC_AND_AUDIO,play.google.com,ENTER
+com.naver.whale,Naver Whale Browser,COMMUNICATION,play.google.com,SOCIAL
+com.navercorp.android.smartboard,"Naver SmartBoard - Keyboard: Search,Draw,Translate",TOOLS,play.google.com,SYSTEM
+com.nbaimd.gametime.nba2011,NBA: Live Games & Scores,SPORTS,play.google.com,ENTER
+com.nbdproject.macarong,"마이클(마카롱) - 차량관리, 엔진오일 예약, 차계부",AUTO_AND_VEHICLES,play.google.com,INFO
+com.nbstudio.towercolor,Tower Color,GAME_ARCADE,play.google.com,ENTER
+com.nbt.moves,캐시슬라이드 스텝업 - 잠금화면 만보기,HEALTH_AND_FITNESS,play.google.com,HEALTH
+com.ncode.dcode.android,디코드 - 편리한 명품 쇼핑·해외직구 서비스,SHOPPING,play.google.com,INFO
+com.ncsoft.paige,PAIGE - Baseball app for KBO,SPORTS,play.google.com,ENTER
+com.necta.wifimousefree,WiFi Mouse(remote control PC),TOOLS,play.google.com,SYSTEM
+com.neowiz.android.bugs,벅스 - Bugs,MUSIC_AND_AUDIO,play.google.com,ENTER
+com.neowiz.games.newmatgo,피망 뉴맞고: 고스톱 대표 맞고 게임,GAME_CARD,play.google.com,ENTER
+com.netflix.mediaclient,Netflix,ENTERTAINMENT,play.google.com,ENTER
+com.netflix.movies,Netflix,ENTERTAINMENT,handlabeled,ENTER
+com.netmarble.fgok,페이트/그랜드 오더,GAME_ROLE_PLAYING,play.google.com,ENTER
+com.netmarble.full2016,이사만루2019,GAME_SPORTS,apkcombo.com,ENTER
+com.netmarble.mherosgb,MARVEL Future Fight,GAME_ROLE_PLAYING,play.google.com,ENTER
+com.netmarble.penta,펜타스톰,GAME_ACTION,play.google.com,ENTER
+com.nexon.fo4m,FIFA ONLINE 4 M by EA SPORTS™,GAME_SPORTS,play.google.com,ENTER
+com.nflystudio.InfiniteStaircase,Infinite Stairs,GAME_ARCADE,play.google.com,ENTER
+com.ngelgames.herocantare,Hero Cantare with WEBTOON™,GAME_ROLE_PLAYING,play.google.com,ENTER
+com.nhn.android.appstore,네이버 앱스토어 - Naver AppStore,BOOKS_AND_REFERENCE,apkcombo.com,INFO
+com.nhn.android.band,BAND - App for all groups,SOCIAL,play.google.com,SOCIAL
+com.nhn.android.blog,네이버 블로그 - Naver Blog,SOCIAL,play.google.com,SOCIAL
+com.nhn.android.calendar,Naver Calendar,PRODUCTIVITY,play.google.com,WORK
+com.nhn.android.mail,NAVER Mail,COMMUNICATION,play.google.com,SOCIAL
+com.nhn.android.moneybook,네이버 가계부–카드자동등록-NAVER MONEYBOOK,FINANCE,play.google.com,WORK
+com.nhn.android.music,네이버 뮤직 - Naver Music,MUSIC_AND_AUDIO,apkpure.com,ENTER
+com.nhn.android.navercafe,네이버 카페  - Naver Cafe,SOCIAL,play.google.com,SOCIAL
+com.nhn.android.naverdic,NAVER Dictionary,EDUCATION,play.google.com,WORK
+com.nhn.android.naverplayer,NAVER NOW,ENTERTAINMENT,play.google.com,ENTER
+com.nhn.android.nbooks,SERIES,BOOKS_AND_REFERENCE,play.google.com,INFO
+com.nhn.android.ndrive,NAVER MYBOX,PRODUCTIVITY,play.google.com,WORK
+com.nhn.android.nmap,"NAVER Map, Navigation",TRAVEL_AND_LOCAL,play.google.com,INFO
+com.nhn.android.search,네이버 - NAVER,BOOKS_AND_REFERENCE,play.google.com,INFO
+com.nhn.android.webtoon,네이버 웹툰 - Naver Webtoon,COMICS,play.google.com,ENTER
+com.nhnent.SKPOKOPOKO,POKOPOKO The Match 3 Puzzle,GAME_PUZZLE,play.google.com,ENTER
+com.nhnent.payapp,PAYCO,LIFESTYLE,play.google.com,INFO
+com.nianticlabs.pokemongo,Pokémon GO,GAME_ADVENTURE,play.google.com,ENTER
+com.nintendo.znca,Nintendo Switch Online,ENTERTAINMENT,play.google.com,ENTER
+com.nomadconnection.broccoli,브로콜리 -  돈 관리를 위한 첫 걸음,FINANCE,play.google.com,WORK
+com.northghost.touchvpn,TouchVPN - VPN Proxy & Privacy,TOOLS,play.google.com,SYSTEM
+com.olleh.android.oc2,KT 멤버십,LIFESTYLE,play.google.com,INFO
+com.omnitel.android.lottewebview,롯데홈쇼핑,SHOPPING,play.google.com,INFO
+com.onenone.nekosushi,Neko Sushi - Stack Game,GAME_ARCADE,play.google.com,ENTER
+com.orangefish.app.pokemoniv,IV Go（get IV ranking）,GAME_ADVENTURE,play.google.com,ENTER
+com.osp.app.signin,Samsung account,TOOLS,apkcombo.com,SYSTEM
+com.oss.mcam,[High Quality] silent camera,PHOTOGRAPHY,play.google.com,ENTER
+com.pacoapp.paco,PACO,HEALTH_AND_FITNESS,play.google.com,HEALTH
+com.paktor,"Paktor - Swipe, Match & live Chat",LIFESTYLE,play.google.com,INFO
+com.palmleafsoft.victo,빅토 - 스포츠토토 & 프로토 분석 자료,SPORTS,play.google.com,ENTER
+com.parthenon.space,Space Big Bang,GAME_ARCADE,apkcombo.com,ENTER
+com.phh.coinnow,코인나우 - 가상화폐 시세정보/알림 (암호화폐),FINANCE,play.google.com,WORK
+com.philips.lighting.hue2,Philips Hue,LIFESTYLE,play.google.com,INFO
+com.piazza.android,Piazza,EDUCATION,play.google.com,WORK
+com.pinterest,Pinterest,LIFESTYLE,play.google.com,INFO
+com.pione.timetable,Timetable: a lovely scheduler,TOOLS,play.google.com,SYSTEM
+com.place5.gawekim,김과외 (대한민국 대표 과외 플랫폼),EDUCATION,play.google.com,WORK
+com.popularapp.periodcalendar,Period Calendar Period Tracker,HEALTH_AND_FITNESS,play.google.com,HEALTH
+com.projectm.ezbrother.ssm,씀,SOCIAL,play.google.com,SOCIAL
+com.ptculi.tekview,텍뷰(텍스트뷰어),BOOKS_AND_REFERENCE,play.google.com,INFO
+com.pubg.krmobile,PUBG Mobile,GAME_ACTION,play.google.com,ENTER
+com.qrcorde.scan.barcode.reader.generator,Coreader- QR Code & Barcode Scanner,ENTERTAINMENT,apkcombo.com,ENTER
+com.rainist.banksalad2,뱅크샐러드,FINANCE,play.google.com,WORK
+com.realbyteapps.moneya,Money Manager (Remove Ads),FINANCE,play.google.com,WORK
+com.realbyteapps.moneymanagerfree,Money Manager Expense & Budget,FINANCE,play.google.com,WORK
+com.realmax.calc,Scientific Calculator free,TOOLS,play.google.com,SYSTEM
+com.reddit.frontpage,Reddit,SOCIAL,play.google.com,SOCIAL
+com.riotgames.mobile.leagueconnect,Riot Mobile,GAME_STRATEGY,play.google.com,ENTER
+com.rookiestudio.perfectviewer,Perfect Viewer,COMICS,play.google.com,ENTER
+com.rummikubfree,Rummikub®,GAME_BOARD,play.google.com,ENTER
+com.runtastic.android.sleepbetter.lite,Runtastic Sleep Better: Sleep Cycle & Smart Alarm,HEALTH_AND_FITNESS,play.google.com,HEALTH
+com.ryohei.haruki.EscapeRooms,Prison Games - Escape Rooms,GAME_ADVENTURE,play.google.com,ENTER
+com.ryohei.haruki.Exit,EXiTS - Room Escape Game,GAME_ADVENTURE,play.google.com,ENTER
+com.sampleapp,배달의민족,FOOD_AND_DRINK,play.google.com,INFO
+com.samsung.accessibility,Samsung Accessibility,TOOLS,apkcombo.com,SYSTEM
+com.samsung.accessory.fridaymgr,Galaxy Buds Manager,TOOLS,play.google.com,SYSTEM
+com.samsung.android.MtpApplication,MTP 어플리케이션,TOOLS,handlabeled,SYSTEM
+com.samsung.android.allshare.service.fileshare,AllShare FileShare Service,TOOLS,apkcombo.com,SYSTEM
+com.samsung.android.app.aodservice,[Samsung] Always On Display,TOOLS,apkpure.com,SYSTEM
+com.samsung.android.app.appsedge,Samsung Apps edge,TOOLS,apkcombo.com,SYSTEM
+com.samsung.android.app.cocktailbarservice,Samsung Edge screen,TOOLS,apkcombo.com,SYSTEM
+com.samsung.android.app.galaxyfinder,Samsung Finder,TOOLS,apkcombo.com,SYSTEM
+com.samsung.android.app.memo,Samsung Memo,TOOLS,apkcombo.com,SYSTEM
+com.samsung.android.app.notes,Samsung Notes,PRODUCTIVITY,play.google.com,WORK
+com.samsung.android.app.reminder,Samsung Reminder,TOOLS,apkcombo.com,SYSTEM
+com.samsung.android.app.simplesharing,Link Sharing,PRODUCTIVITY,apkcombo.com,WORK
+com.samsung.android.app.smartcapture,Samsung capture,TOOLS,apkcombo.com,SYSTEM
+com.samsung.android.app.soundpicker,Samsung Sound picker,TOOLS,apkcombo.com,SYSTEM
+com.samsung.android.app.spage,Bixby Home,TOOLS,apkcombo.com,SYSTEM
+com.samsung.android.app.telephonyui,Samsung Call settings,TOOLS,apkcombo.com,SYSTEM
+com.samsung.android.app.watchmanager,Galaxy Wearable (Samsung Gear),TOOLS,play.google.com,SYSTEM
+com.samsung.android.authfw,Samsung Pass,TOOLS,apkcombo.com,SYSTEM
+com.samsung.android.bixby.agent,Bixby Voice,TOOLS,apkcombo.com,SYSTEM
+com.samsung.android.calendar,Samsung Calendar,TOOLS,apkcombo.com,SYSTEM
+com.samsung.android.contacts,Samsung Contacts APK,COMMUNICATION,apkcombo.com,SOCIAL
+com.samsung.android.dialer,Samsung Phone,TOOLS,apkcombo.com,SYSTEM
+com.samsung.android.email.provider,Samsung Email,PRODUCTIVITY,play.google.com,WORK
+com.samsung.android.game.gamehome,Samsung Game Launcher,TOOLS,apkcombo.com,SYSTEM
+com.samsung.android.game.gametools,Samsung Game Booster,TOOLS,apkcombo.com,SYSTEM
+com.samsung.android.gearoplugin,Gear S Plugin,TOOLS,play.google.com,SYSTEM
+com.samsung.android.incallui,Samsung Call,TOOLS,apkcombo.com,SYSTEM
+com.samsung.android.knox.containeragent,Workspace,TOOLS,apkcombo.com,SYSTEM
+com.samsung.android.lool,Device Care,TOOLS,play.google.com,SYSTEM
+com.samsung.android.messaging,Samsung Messages,TOOLS,apkcombo.com,SYSTEM
+com.samsung.android.mobileservice,Group Sharing,TOOLS,play.google.com,SYSTEM
+com.samsung.android.oneconnect,SmartThings,LIFESTYLE,play.google.com,INFO
+com.samsung.android.personalpage.service,Private mode,TOOLS,apkcombo.com,SYSTEM
+com.samsung.android.samsungpass,Samsung Pass,TOOLS,apkcombo.com,SYSTEM
+com.samsung.android.samsungpassautofill,Autofill with Samsung Pass,TOOLS,apkcombo.com,SYSTEM
+com.samsung.android.samsungpay.gear,Samsung Pay (Watch Plug-in),LIFESTYLE,play.google.com,INFO
+com.samsung.android.scloud,Samsung Cloud,PRODUCTIVITY,play.google.com,WORK
+com.samsung.android.service.aircommand,Samsung Air command,TOOLS,apkcombo.com,SYSTEM
+com.samsung.android.service.peoplestripe,People edge,TOOLS,apkcombo.com,SYSTEM
+com.samsung.android.smartmirroring,Smart View,TOOLS,apkcombo.com,SYSTEM
+com.samsung.android.spay,Samsung Pay,LIFESTYLE,play.google.com,INFO
+com.samsung.android.svoiceime,Samsung voice input,TOOLS,apkcombo.com,SYSTEM
+com.samsung.android.themestore,Galaxy Themes,TOOLS,apkcombo.com,SYSTEM
+com.samsung.android.video,Samsung Video Player,TOOLS,apkcombo.com,SYSTEM
+com.samsung.android.videolist,Samsung Video Library,VIDEO_PLAYERS,play.google.com,ENTER
+com.samsung.android.visionintelligence,Bixby Vision,TOOLS,apkcombo.com,SYSTEM
+com.samsung.android.voc,Samsung Members,TOOLS,play.google.com,SYSTEM
+com.samsung.dreamclassandroid,Dreamclass - 삼성 드림클래스,SOCIAL,apkcombo.com,SOCIAL
+com.samsung.knox.securefolder,Secure Folder,BUSINESS,play.google.com,WORK
+com.samsung.voiceserviceplatform,Samsung S Voice,TOOLS,apkcombo.com,SYSTEM
+com.sc.danb.scbankapp,SC Mobile Banking,FINANCE,apkcombo.com,WORK
+com.scatterlab.sol,연애의 과학 - 심리학 연애팁과 심리 테스트,ENTERTAINMENT,apkcombo.com,ENTER
+com.sec.android.app.apex,Samsung ApexService,TOOLS,apkcombo.com,SYSTEM
+com.sec.android.app.camera,Samsung Camera,TOOLS,apkcombo.com,SYSTEM
+com.sec.android.app.clockpackage,Samsung Clock,TOOLS,apkcombo.com,SYSTEM
+com.sec.android.app.hwmoduletest,HwModuleTest,TOOLS,apkcombo.com,SYSTEM
+com.sec.android.app.launcher,Samsung One UI Home,PERSONALIZATION,play.google.com,SYSTEM
+com.sec.android.app.music,Samsung Music,MUSIC_AND_AUDIO,play.google.com,ENTER
+com.sec.android.app.myfiles,Samsung My Files,TOOLS,play.google.com,SYSTEM
+com.sec.android.app.popupcalculator,Samsung Calculator,TOOLS,play.google.com,SYSTEM
+com.sec.android.app.samsungapps,Samsung Galaxy Store,ENTERTAINMENT,apkpure.com,ENTER
+com.sec.android.app.sbrowser,Samsung Internet Browser,COMMUNICATION,play.google.com,SOCIAL
+com.sec.android.app.shealth,Samsung Health,HEALTH_AND_FITNESS,play.google.com,HEALTH
+com.sec.android.app.vefull,Samsung Movie Maker,TOOLS,apkcombo.com,SYSTEM
+com.sec.android.app.vepreload,Video Editor Lite,TOOLS,apkcombo.com,SYSTEM
+com.sec.android.app.voicenote,Samsung Voice Recorder,TOOLS,play.google.com,SYSTEM
+com.sec.android.daemonapp,Samsung Weather,TOOLS,apkcombo.com,SYSTEM
+com.sec.android.emergencylauncher,Samsung Emergency Launcher,TOOLS,apkcombo.com,SYSTEM
+com.sec.android.emergencymode.service,EmergencyManagerService,TOOLS,apkcombo.com,SYSTEM
+com.sec.android.gallery3d,Samsung Gallery,PHOTOGRAPHY,apkpure.com,ENTER
+com.sec.android.inputmethod,Samsung Keyboard,PRODUCTIVITY,apkcombo.com,WORK
+com.sec.android.inputmethod.beta,Samsung Keyboard Neural Beta,TOOLS,apkcombo.com,SYSTEM
+com.sec.android.mimage.photoretouching,Photo editor,PHOTOGRAPHY,apkcombo.com,ENTER
+com.sec.android.ofviewer,Samsung Selective focus,TOOLS,apkcombo.com,SYSTEM
+com.sec.android.preloadinstaller,Application installer,TOOLS,apkcombo.com,SYSTEM
+com.sec.android.wallpapercropper2,Samsung Wallpapers,TOOLS,apkcombo.com,SYSTEM
+com.sec.musicstudio,Soundcamp,MUSIC_AND_AUDIO,apkcombo.com,ENTER
+com.sec.print.mobileprint,Samsung Mobile Print,PRODUCTIVITY,play.google.com,WORK
+com.seoulstore,서울스토어,SHOPPING,play.google.com,INFO
+com.shcard.smartpay,신한플레이 - 신한카드 대표플랫폼,FINANCE,play.google.com,WORK
+com.shinhan.sbanking,신한 쏠(SOL) – 신한은행 스마트폰뱅킹,FINANCE,play.google.com,WORK
+com.shinhan.smartcaremgr,SOL알리미,FINANCE,play.google.com,WORK
+com.shinhancard.smartshinhan,신한카드,FINANCE,play.google.com,WORK
+com.show.greenbill,스마트명세서,FINANCE,handlabeled,WORK
+com.sirma.mobile.bible.android,YouVersion Bible App + Audio,BOOKS_AND_REFERENCE,play.google.com,INFO
+com.sirnic.atomas,Atomas,GAME_CASUAL,play.google.com,ENTER
+com.skb.btvmobile,My oksusu,VIDEO_PLAYERS,play.google.com,ENTER
+com.skmc.okcashbag.home_google,OK캐쉬백 [즐거움이 포인트다],LIFESTYLE,play.google.com,INFO
+com.skn.zamong2,Most - 올인원 카라이프 플랫폼 (SK네트웍스 모스트),MAPS_AND_NAVIGATION,play.google.com,INFO
+com.skplanet.ocb.locker,"OK캐쉬백_오락 (만보기, 걸음, 앱테크, 잠금화면)",LIFESTYLE,play.google.com,INFO
+com.skt.aladdin,"누구 - NUGU, 세상을 깨우는 AI",LIFESTYLE,play.google.com,INFO
+com.skt.prod.dialer,T전화 - AI로 더 똑똑해진 전화 앱!,COMMUNICATION,play.google.com,SOCIAL
+com.skt.prod.phone,T전화 통화,COMMUNICATION,handlabeled,SOCIAL
+com.skt.prod.phonebook,"T연락처 - 주소록 실시간 백업, 114 검색",TOOLS,apkpure.com,SYSTEM
+com.skt.skaf.A000Z00040,One Store,TOOLS,apkpure.com,SYSTEM
+com.skt.skaf.OA00018282,원스토어 서비스,TOOLS,handlabeled,SYSTEM
+com.skt.skaf.OA00026910,Syrup,FINANCE,play.google.com,WORK
+com.skt.skaf.OA00050017,원스토리 -  원스토어 북스의 새로운 이름,BOOKS_AND_REFERENCE,play.google.com,INFO
+com.skt.skaf.a000as00tm,모바일티머니,MAPS_AND_NAVIGATION,play.google.com,INFO
+com.skt.skaf.l001mtm091,"T map for KT, LGU+",MAPS_AND_NAVIGATION,apkcombo.com,INFO
+com.skt.smartbill,Bill Letter,LIFESTYLE,play.google.com,INFO
+com.skt.t_smart_charge,T 안심,TOOLS,apkcombo.com,SYSTEM
+com.skt.tmap.ku,"TMAP - 대리,주차,전기차 충전,킥보드를 티맵에서!",MAPS_AND_NAVIGATION,play.google.com,INFO
+com.sktelecom.Danawa.Main,"다나와: 최저가 가격비교, 조립PC, 자동차, 여행",SHOPPING,play.google.com,INFO
+com.sktelecom.tauth,PASS by SKT – 안전하고 간편한 PASS인증서,FINANCE,play.google.com,WORK
+com.sktelecom.tguard,"SK쉴더스 모바일가드(SKT선탑재)–백신, 바이러스검사",TOOLS,play.google.com,SYSTEM
+com.sktelecom.tsmartpay,"T pay (T페이, 티페이, tpay)",FINANCE,apkcombo.com,WORK
+com.sktelecom.ytpoc,0한동,LIFESTYLE,play.google.com,INFO
+com.skybornegames.battlepop,LightSlinger Heroes Puzzle RPG,GAME_ROLE_PLAYING,play.google.com,ENTER
+com.skype.raider,Skype,COMMUNICATION,play.google.com,SOCIAL
+com.sleet.beautyplastic,바비톡 - 성형 & 뷰티 커뮤니티,BEAUTY,play.google.com,INFO
+com.sm1.EverySing,Smart Karaoke: everysing Sing!,MUSIC_AND_AUDIO,play.google.com,ENTER
+com.smallman.android,키작은남자 SmallMan,SHOPPING,play.google.com,INFO
+com.smp.musicspeed,Music Speed Changer,MUSIC_AND_AUDIO,play.google.com,ENTER
+com.snaps.mobile.kr,"SNAPS-photobook,photo,print",PHOTOGRAPHY,play.google.com,ENTER
+com.snowcorp.soda.android,SODA - Natural Beauty Camera,PHOTOGRAPHY,play.google.com,ENTER
+com.social.media.pop.a,팝콘티비,ENTERTAINMENT,apkcombo.com,ENTER
+com.socialnmobile.dictapps.notepad.color.note,ColorNote Notepad Notes,PRODUCTIVITY,play.google.com,WORK
+com.softworx.cai,"대기오염정보-미세먼지,WHO기준,위젯,예보,알림,날씨",WEATHER,play.google.com,INFO
+com.soomgo,"숨고 - 이사, 인테리어, 레슨까지 전국민 생활솔루션",LIFESTYLE,play.google.com,INFO
+com.soundcorset.client.android,Tuner & Metronome,MUSIC_AND_AUDIO,play.google.com,ENTER
+com.sports2i,KBO STATS,SPORTS,play.google.com,ENTER
+com.spotify.music,Spotify: Music and Podcasts,MUSIC_AND_AUDIO,play.google.com,ENTER
+com.ssg.bang,Smart Addiction - Smartphone addiction resolution!,LIFESTYLE,apkcombo.com,INFO
+com.ssg.serviceapp.android.egiftcertificate,SSGPAY - 혜택 위의 혜택,FINANCE,play.google.com,WORK
+com.starbucks.co,스타벅스,FOOD_AND_DRINK,play.google.com,INFO
+com.stt.android.suunto,Suunto,HEALTH_AND_FITNESS,play.google.com,HEALTH
+com.styleshare.android,스타일쉐어 - 스쉐롭게,SHOPPING,play.google.com,INFO
+com.sundaytoz.astovekr.joy,디즈니팝_OLD,GAME_PUZZLE,apkcombo.com,ENTER
+com.supercell.brawlstars,Brawl Stars,GAME_ACTION,play.google.com,ENTER
+com.supercell.clashofclans,Clash of Clans,GAME_STRATEGY,play.google.com,ENTER
+com.supercell.clashroyale,Clash Royale,GAME_STRATEGY,play.google.com,ENTER
+com.sweettracker.smartparcel,스마트택배,LIFESTYLE,play.google.com,INFO
+com.tadaoyamaoka.vocalpitchmonitor,Vocal Pitch Monitor,MUSIC_AND_AUDIO,play.google.com,ENTER
+com.taeyoung.jimoon.kakaopreview,"카톡 프리뷰 - 카카오톡 미리보기, 삭제된 메시지, 라인,페북메시지 몰래보기X, 알림 커버",DATING,apkcombo.com,SOCIAL
+com.taobao.taobao,淘宝,SHOPPING,play.google.com,INFO
+com.teamblind.blind,Blind - Anonymous Professional Network,BUSINESS,play.google.com,WORK
+com.tencent.mm,WeChat,COMMUNICATION,play.google.com,SOCIAL
+com.tenqube.qlip,Visual Money Manager,FINANCE,play.google.com,WORK
+com.tf.thinkdroid.viewer,Hancom Office Viewer,PRODUCTIVITY,play.google.com,WORK
+com.the29cm.app29cm,29CM - 감도 깊은 취향 셀렉트샵,SHOPPING,play.google.com,INFO
+com.timespread.Timetable2,타임스프레드 - 가만히 있어도 캐시가 적립되는 돈버는앱,LIFESTYLE,play.google.com,INFO
+com.titicacacorp.triple,"트리플 - 항공·호텔·펜션 최저가 예약, 여행계획",TRAVEL_AND_LOCAL,play.google.com,INFO
+com.tlfactory.letsmeeting,꽁짜로 음악 따운 S4 - 꽁음따,ENTERTAINMENT,apkcombo.com,ENTER
+com.tmon,TMON(ticket monster),SHOPPING,play.google.com,INFO
+com.tms,T멤버십,LIFESTYLE,play.google.com,INFO
+com.tobesoft.LH,LH청약센터,HOUSE_AND_HOME,play.google.com,INFO
+com.todoist,Todoist: To-Do List & Tasks,PRODUCTIVITY,play.google.com,WORK
+com.towneers.www,Karrot: Buy & sell locally,SOCIAL,play.google.com,SOCIAL
+com.truefriend.neosmarta,한국투자증권 (계좌개설 포함),FINANCE,play.google.com,WORK
+com.truefriend.smartnewa,한국투자증권 eFriend Smart,FINANCE,play.google.com,WORK
+com.ttxapps.dropsync,Dropsync: Autosync for Dropbox,PRODUCTIVITY,play.google.com,WORK
+com.tuck.hellomarket,헬로마켓 - 비대면 중고거래 중고마켓,SHOPPING,play.google.com,INFO
+com.twitter.android,Twitter,SOCIAL,play.google.com,SOCIAL
+com.tyo.tygem,타이젬바둑 (웹버전-승부예측),GAME_BOARD,play.google.com,ENTER
+com.ubikey,휴대폰 인증서 서비스(유비키_UBIKey),FINANCE,play.google.com,WORK
+com.ubisoft.dance.JustDance,Just Dance Now,GAME_MUSIC,play.google.com,ENTER
+com.uglyicons.apps.android.emlreader,EML Reader FREE,PRODUCTIVITY,play.google.com,WORK
+com.uplus.oemsearch,U+번호안내 서비스,LIFESTYLE,play.google.com,INFO
+com.utorrent.client,µTorrent®- Torrent Downloader,VIDEO_PLAYERS,play.google.com,ENTER
+com.uxlayer.wipoint,다이소 멤버십,LIFESTYLE,play.google.com,INFO
+com.valvesoftware.android.steam.community,Steam,ENTERTAINMENT,play.google.com,ENTER
+com.videobox.go365,튜브박스 - 음악 동영상 다운로드,VIDEO_PLAYERS_AND_EDITORS,apkcombo.com,ENTER
+com.vinart.naturephotoeffects,Photo Live Effects,PHOTOGRAPHY,play.google.com,ENTER
+com.vingle.android,"Vingle, Interest Network.",SOCIAL,play.google.com,SOCIAL
+com.vitalhint.haemukja,Foodiest K-Food Recipes,FOOD_AND_DRINK,apkpure.com,INFO
+com.vlingo.midas,S Voice,TOOLS,apkcombo.com,SYSTEM
+com.wahoofitness.fitness,Wahoo Fitness: Workout Tracker,HEALTH_AND_FITNESS,play.google.com,HEALTH
+com.wawagame.app.ttnl2,Brainzzz,GAME_PUZZLE,play.google.com,ENTER
+com.weather.Weather,The Weather Channel - Radar,WEATHER,play.google.com,INFO
+com.wemakeprice,위메프 – 쇼핑프로 위메프로,SHOPPING,play.google.com,INFO
+com.whox2.lguplus,"후후-유플러스, 스팸 차단과 상대 번호 정보가 확인되는 안전 안심 서비스",LIFESTYLE,apkpure.com,INFO
+com.wikia.singlewikia.doctorwho,FANDOM for: Doctor Who,ENTERTAINMENT,apkcombo.com,ENTER
+com.wonderabbit.couplete,Couplete - App for Couples,SOCIAL,apkcombo.com,SOCIAL
+com.wonderabbit.lovedays,Lovedays D-Day for Couples,LIFESTYLE,apkpure.com,INFO
+com.wooribank.pib.smart,(구) 우리은행 원터치개인뱅킹,FINANCE,apkcombo.com,WORK
+com.wooribank.smart.dream,우리은행 원터치개인뱅킹 for 삼성페이,FINANCE,apkcombo.com,WORK
+com.wooribank.smart.mwib,우리은행 위비뱅크,FINANCE,play.google.com,WORK
+com.wooricard.smartapp,우리WON카드,FINANCE,play.google.com,WORK
+com.wr.alrim,우리은행 원터치알림,FINANCE,play.google.com,WORK
+com.ws.dm,AT&amp;T Software update,TOOLS,apkcombo.com,SYSTEM
+com.wssyncmldm,Samsung Software update,TOOLS,apkcombo.com,SYSTEM
+com.wudaokou.hippo,盒马,TRAVEL_AND_LOCAL,apkcombo.com,INFO
+com.xiaomi.hm.health,Zepp Life(MiFit),HEALTH_AND_FITNESS,play.google.com,HEALTH
+com.xiaomi.smarthome,Mi Home,LIFESTYLE,play.google.com,INFO
+com.xodo.pdf.reader,Xodo PDF Reader & Editor,PRODUCTIVITY,play.google.com,WORK
+com.yachin.app,야구친구,SPORTS,play.google.com,ENTER
+com.ydea.codibook,Codibook - Fashion & Style to Buy,SHOPPING,play.google.com,INFO
+com.yes24.commerce,예스24 도서 서점,BOOKS_AND_REFERENCE,play.google.com,INFO
+com.yogavpn,Yoga VPN-Secure Unblock Proxy,TOOLS,play.google.com,SYSTEM
+com.yupdduk.morder,엽기떡볶이,SHOPPING,play.google.com,INFO
+com.zerosisters.caketown,Cake Town : Your Town on Cake (holiday game),GAME_SIMULATION,play.google.com,ENTER
+crewbi.com.android,크루비,SHOPPING,apkpure.com,INFO
+crossfit.alnia,RX TIMER,SPORTS,play.google.com,ENTER
+de.vsmedia.imagesize,Image Size - Photo Resizer,PHOTOGRAPHY,play.google.com,ENTER
+droom.sleepIfUCan,Alarmy - Joyful Alarm Clock,PRODUCTIVITY,play.google.com,WORK
+emotion.onekm,1km - Make a Friend around you,DATING,play.google.com,SOCIAL
+fi.polar.beat,Polar Beat: Running & Fitness,HEALTH_AND_FITNESS,play.google.com,HEALTH
+flipboard.app,"Flipboard - Latest News, Top Stories & Lifestyle",NEWS_AND_MAGAZINES,play.google.com,INFO
+flipboard.boxer.app,Briefing,NEWS_AND_MAGAZINES,play.google.com,INFO
+free.vpn.unblock.proxy.turbovpn,Turbo VPN - Secure VPN Proxy,TOOLS,play.google.com,SYSTEM
+friedrich.georg.airbattery,AirBattery,MUSIC_AND_AUDIO,play.google.com,ENTER
+games.wfs.anothereden,ANOTHER EDEN Global,GAME_ROLE_PLAYING,play.google.com,ENTER
+gg.op.lol.android,OP.GG,ENTERTAINMENT,play.google.com,ENTER
+hyundai.hi.smart.android.activity,현대해상,FINANCE,apkcombo.com,WORK
+iclab.kaist.ac.kr.msband_logger,Logger,TOOLS,handlabeled,SYSTEM
+io.barcodee.barcodee,RadDog -  Japanese radioactivity detection dog,LIFESTYLE,play.google.com,INFO
+jp.co.ponos.battlecatskr,냥코 대전쟁,GAME_CASUAL,play.google.com,ENTER
+jp.konami.duellinks,Yu-Gi-Oh! Duel Links,GAME_CARD,play.google.com,ENTER
+jp.konami.pesam,eFootball PES 2021,GAME_SPORTS,play.google.com,ENTER
+jp.naver.line.android,LINE: Calls & Messages,COMMUNICATION,play.google.com,SOCIAL
+jp.pxv.android,pixiv,SOCIAL,play.google.com,SOCIAL
+jp.radiko.Player,radiko,VIDEO_PLAYERS,play.google.com,ENTER
+jstudio.cting,"캠퍼스팅 - 대학생 소개팅, 과팅",SOCIAL,play.google.com,SOCIAL
+kaist.iclab.abclogger,Logger,TOOLS,handlabeled,SYSTEM
+kfc_ko.kore.kg.kfc_korea,KFC Korea,FOOD_AND_DRINK,play.google.com,INFO
+kr.aboy.tools,Smart Tools,TOOLS,play.google.com,SYSTEM
+kr.ac.kaist.bab,밥대생 - 학식 어플! 대학교 필수 학식 앱,FOOD_AND_DRINK,play.google.com,INFO
+kr.ac.kaist.coursemos.android,KAIST 학습관리시스템,EDUCATION,apkcombo.com,WORK
+kr.ac.kaist.kyotong,카이스트 버스,MAPS_AND_NAVIGATION,apkcombo.com,INFO
+kr.ac.kaist.lockscreen,FocusMore,PRODUCTIVITY,handlabeled,WORK
+kr.ac.kaist.portal,KAIST Portal,COMMUNICATION,play.google.com,SOCIAL
+kr.ac.libit.kaist,KAIST LIBRARY,LIBRARIES_AND_DEMO,play.google.com,INFO
+kr.backpackr.me.idus,아이디어스(idus) - 작품구매부터 취미생활까지!,SHOPPING,play.google.com,INFO
+kr.co.aladin.third_shop,알라딘 인터넷서점,BOOKS_AND_REFERENCE,play.google.com,INFO
+kr.co.alba.webappalba.m,알바천국- 알바 구인구직 포털서비스,BUSINESS,play.google.com,WORK
+kr.co.avad.diagnostictool,모아바,LIFESTYLE,handlabeled,INFO
+kr.co.barnstory.zet,UNKNOWN,UNKNOWN,handlabeled,UNKNOWN
+kr.co.captv.pooqV2,wavve(웨이브) - 재미의 파도를 타다!,ENTERTAINMENT,play.google.com,ENTER
+kr.co.cgv.phototicket,CGV포토티켓,ENTERTAINMENT,apkpure.com,ENTER
+kr.co.cjone.app.lockscreen,CJ ONE 원더락 : 첫 화면이 포인트다,LIFESTYLE,play.google.com,INFO
+kr.co.company.hwahae,Hwahae - analyzing cosmetics,BEAUTY,play.google.com,INFO
+kr.co.elandmall.elandmall,이랜드몰 – 육아/리빙/패션라이프 토탈 쇼핑앱,SHOPPING,play.google.com,INFO
+kr.co.emart.emartmall,이마트몰 – emart mall,SHOPPING,play.google.com,INFO
+kr.co.hanamembers.hmscustomer,하나머니(하나멤버스),FINANCE,play.google.com,WORK
+kr.co.happymobile.happyscreen,해피스크린 - 해피포인트를 모으는 또 다른 방법,LIFESTYLE,play.google.com,INFO
+kr.co.insuguide.lemonBridge,레몬브릿지 – 나의 보험 컨설턴트는 누구?,FINANCE,play.google.com,WORK
+kr.co.ivlog.mobile.app.cjonecard,CJ ONE,LIFESTYLE,play.google.com,INFO
+kr.co.ll2016.theday,봄 캘린더 - 내 마음대로 꾸미는 생리 달력,HEALTH_AND_FITNESS,play.google.com,HEALTH
+kr.co.logeo.sunhealthcare,Sun Healthcare International,MEDICAL,play.google.com,HEALTH
+kr.co.lottecinema.lcm,롯데시네마,ENTERTAINMENT,play.google.com,ENTER
+kr.co.lylstudio.unicorn,"Unicorn Blocker:Adblocker, Fast & Private",PRODUCTIVITY,play.google.com,WORK
+kr.co.memebox.meme,미미박스 - 화장품 콘텐츠 가득한 뷰티 놀이터,BEAUTY,apkcombo.com,INFO
+kr.co.mezzomedia.qfeat,큐피트 – 모바일 퀴즈쇼,ENTERTAINMENT,apkpure.com,ENTER
+kr.co.nowcom.mobile.afreeca,AfreecaTV,ENTERTAINMENT,play.google.com,ENTER
+kr.co.psynet,"LIVE Score, Real-Time Score",SPORTS,play.google.com,ENTER
+kr.co.quicket,번개장터 - 취향을 잇는 중고거래,SHOPPING,play.google.com,INFO
+kr.co.rememberapp,리멤버 - 직장인 필수앱,BUSINESS,play.google.com,WORK
+kr.co.rinasoft.howuse,UBhind: Mobile Tracker Manager,PRODUCTIVITY,play.google.com,WORK
+kr.co.samsungcard.mpocket,삼성카드,FINANCE,play.google.com,WORK
+kr.co.srail.app,SRT - 수서고속철도,TRAVEL_AND_LOCAL,apkcombo.com,INFO
+kr.co.srail.newapp,SRT - 수서고속철도,TRAVEL_AND_LOCAL,play.google.com,INFO
+kr.co.ssg,SSG.COM,SHOPPING,play.google.com,INFO
+kr.co.station3.dabang,다방 – 대한민국 대표 부동산 앱,HOUSE_AND_HOME,play.google.com,INFO
+kr.co.tamseng.StudyHelper,스터디 헬퍼,EDUCATION,apkpure.com,WORK
+kr.co.ticketlink.cne,Ticketlink,ENTERTAINMENT,play.google.com,ENTER
+kr.co.vcnc.android.couple,Between - Private Couples App,SOCIAL,play.google.com,SOCIAL
+kr.co.whitecube.chlngers,"챌린저스 - 건강 습관·루틴 챌린지, 오늘 할일 알람",HEALTH_AND_FITNESS,play.google.com,HEALTH
+kr.co.womanstalk,우먼스톡 - 뷰티/패션/라이프 스타일까지 인플루언서의 스타일을 쇼핑하다.,BEAUTY,play.google.com,INFO
+kr.co.zumo.app,LIFEPLUS,LIFESTYLE,play.google.com,INFO
+kr.crowdworks,크라우드웍스,PRODUCTIVITY,play.google.com,WORK
+kr.ebroadcasting.cheezepie,3ProTV,FINANCE,play.google.com,WORK
+kr.fow.app,롤 전적 검색 포우 FOW.KR,ENTERTAINMENT,play.google.com,ENTER
+kr.go.minwon.m,정부24(구 민원24),PRODUCTIVITY,play.google.com,WORK
+kr.go.nts.android,국세청 홈택스 [손택스],TOOLS,play.google.com,SYSTEM
+kr.goodchoice.abouthere,"여기어때 - 호텔, 모텔, 펜션, 캠핑 최저가 예약!",TRAVEL_AND_LOCAL,play.google.com,INFO
+kr.munpia.forandroid,문피아 - 웹소설의 유토피아,BOOKS_AND_REFERENCE,play.google.com,INFO
+kr.or.catholic.goodnews,가톨릭,NEWS_AND_MAGAZINES,play.google.com,INFO
+kr.oshare.alpaca,알파카 - 탈수록 즐거운 전동킥보드 공유 서비스,TRAVEL_AND_LOCAL,apkcombo.com,INFO
+kr.pe.javarss.barcodewallet2,My Barcode Wallet,LIFESTYLE,apkcombo.com,INFO
+kr.playparty.helperoflol,"롤도 - 정보, 커뮤니티 (LoL, 롤토체스)",ENTERTAINMENT,apkpure.com,ENTER
+kseek.stime.kaist,궁극의 질문,COMMUNICATION,apkpure.com,SOCIAL
+kvp.jjy.MispAndroid320,ISP/PAYBOOC,FINANCE,play.google.com,WORK
+laftel.net.laftel,"라프텔 - 애니 감상 및 취향저격 추천, 스트리밍",COMICS,play.google.com,ENTER
+lg.uplusbox,U+Box (cloud),PRODUCTIVITY,apkpure.com,WORK
+m.kaist.ac.kr.krep,KAIST 전자식복무관리시스템,EDUCATION,handlabeled,WORK
+me.blog.ghwhsbsb123.gencheminkaist,KAIST GenChem,EDUCATION,play.google.com,WORK
+me.devsaki.hentoid,Hentoid,ENTERTAINMENT,handlabeled,ENTER
+me.mycake,Cake: Lesson updates every day,EDUCATION,play.google.com,WORK
+mok.android,교보문고,BOOKS_AND_REFERENCE,play.google.com,INFO
+moris.notepad,Notepad,PRODUCTIVITY,play.google.com,WORK
+mp3songs.mp3player.mp3cutter.ringtonemaker,MP3 Player,MUSIC_AND_AUDIO,play.google.com,ENTER
+name.wildswift.sunrisealarm,Rooster alarm clock,LIFESTYLE,apkpure.com,INFO
+net.bloodinfo.smartapp,스마트헌혈,LIFESTYLE,play.google.com,INFO
+net.bucketplace,오늘의집 - 라이프스타일 슈퍼앱,SHOPPING,play.google.com,INFO
+net.cj.cjhv.gs.tving,"티빙(TVING) - 오리지널, 방송, 영화, 실시간",ENTERTAINMENT,play.google.com,ENTER
+net.daum.android.cafe,Daum Cafe - 다음 카페,SOCIAL,play.google.com,SOCIAL
+net.daum.android.daum,다음 - Daum,COMMUNICATION,play.google.com,SOCIAL
+net.daum.android.dictionary,다음 사전 - Daum Dictionary,EDUCATION,play.google.com,WORK
+net.daum.android.map,KakaoMap - Map / Navigation,TRAVEL_AND_LOCAL,play.google.com,INFO
+net.daum.android.solcalendar,SolCalendar - Calendar / To do,PRODUCTIVITY,apkcombo.com,WORK
+net.daum.android.webtoon,카카오웹툰 – KAKAO WEBTOON,COMICS,play.google.com,ENTER
+net.difer.weather,Simple weather & clock widget,WEATHER,apkpure.com,INFO
+net.ib.android.smcard,"monimo (모니모, 삼성금융네트웍스)",FINANCE,play.google.com,WORK
+net.mbonnin.arcanetracker,Arcane Tracker,ENTERTAINMENT,apkpure.com,ENTER
+net.nshc.droidx3,Droid-X III 백신 (기업용),TOOLS,play.google.com,SYSTEM
+net.orizinal.subway,KakaoMetro - Subway Navigation,MAPS_AND_NAVIGATION,play.google.com,INFO
+net.pedaling.class101,클래스101 (CLASS101),LIFESTYLE,play.google.com,INFO
+net.skyscanner.android.main,Skyscanner Flights Hotels Cars,TRAVEL_AND_LOCAL,play.google.com,INFO
+nh.smart.allonebank,올원뱅크(All One Bank),FINANCE,play.google.com,WORK
+nh.smart.banking,NH스마트뱅킹,FINANCE,play.google.com,WORK
+nh.smart.card,NH농협카드 스마트앱,FINANCE,play.google.com,WORK
+nh.smart.nhallonepay,NH pay(구 올원페이),FINANCE,play.google.com,WORK
+nh.smart.nhcok,NH콕뱅크,FINANCE,play.google.com,WORK
+nna.ca.ha.ludinf,루딘프  - 자각몽 필수 앱,TOOLS,play.google.com,SYSTEM
+no.mobitroll.kahoot.android,Kahoot! Play & Create Quizzes,EDUCATION,play.google.com,WORK
+okinawa.harapeco.catRestaurant,Purrfect Spirits,GAME_SIMULATION,play.google.com,ENTER
+oops.ledscroller,LED Scroller,TOOLS,play.google.com,SYSTEM
+org.chromium.webapk.a77a1c89e8ee04d0a,LoL 상점,GAME_STRATEGY,handlabeled,ENTER
+org.chromium.webapk.a7988feeea128c96f,SongsterrWeb,MUSIC_AND_AUDIO,handlabeled,ENTER
+org.cohortor.gstrings,Tuner - gStrings,TOOLS,play.google.com,SYSTEM
+org.joa.zipperplus7,"7Zipper - File Explorer (zip, 7zip, rar)",TOOLS,play.google.com,SYSTEM
+org.joa.zipperplus7v2,7Zipper 2.0 – Local and Cloud File Explorer,PRODUCTIVITY,play.google.com,WORK
+org.kftc.fido.lnk.lnk_app,바이오인증 공동앱,FINANCE,play.google.com,WORK
+org.mozilla.firefox,Firefox Fast & Private Browser,COMMUNICATION,play.google.com,SOCIAL
+org.samsung.app.MoAKey,삼성 모아키 한글 키보드,TOOLS,play.google.com,SYSTEM
+org.telegram.messenger,Telegram,COMMUNICATION,play.google.com,SOCIAL
+org.wikipedia,Wikipedia,BOOKS_AND_REFERENCE,play.google.com,INFO
+pictriev.cutout,Cut+Mix Studio,PHOTOGRAPHY,play.google.com,ENTER
+se.footballaddicts.livescore,Forza Football - Soccer scores,SPORTS,play.google.com,ENTER
+seekrtech.sleep,SleepTown,HEALTH_AND_FITNESS,play.google.com,HEALTH
+sixclk.newpiki,Pikicast,ENTERTAINMENT,play.google.com,ENTER
+skplanet.musicmate,FLO – 플로,MUSIC_AND_AUDIO,play.google.com,ENTER
+socar.Socar,쏘카 - 차가 필요한 모든 순간,MAPS_AND_NAVIGATION,play.google.com,INFO
+teamDoppelGanger.SmarterSubway,Korean Subway : Smarter Subway,MAPS_AND_NAVIGATION,play.google.com,INFO
+templarrr.wow.talentcalculator.bfa,WoW BfA Talents,ENTERTAINMENT,apkcombo.com,ENTER
+tv.jamlive,잼라이브 (JAM LIVE) - 라이브 예능&쇼핑,SHOPPING,play.google.com,INFO
+tv.twitch.android.app,Twitch: Live Game Streaming,ENTERTAINMENT,play.google.com,ENTER
+tw.mobileapp.qrcode.banner,QR code reader&QR code Scanner,TOOLS,play.google.com,SYSTEM
+uk.co.nickfines.RealCalcPlus,RealCalc Plus,PRODUCTIVITY,play.google.com,WORK
+uplus.membership,"U+멤버스 - 멤버십 할인,소액결제,포인트,쿠폰",LIFESTYLE,play.google.com,INFO
+us.mathlab.android,"Graphing Calculator + Math, Algebra & Calculus",EDUCATION,play.google.com,WORK
+video.downloader.videodownloader,Video Downloader,VIDEO_PLAYERS,play.google.com,ENTER
+view.parttimejobbook.ljhee,아르바이트 다이어리,PRODUCTIVITY,play.google.com,WORK
+viva.republica.toss,토스,FINANCE,play.google.com,WORK
+vivino.web.app,Vivino: Buy the Right Wine,FOOD_AND_DRINK,play.google.com,INFO
+wongi.weather,"원기날씨 - 미세먼지, 기상청, 날씨",WEATHER,play.google.com,INFO
+works.jubilee.timetree,TimeTree - Shared Calendar,PRODUCTIVITY,play.google.com,WORK
+wsj.reader_sp,The Wall Street Journal: Business & Market News,NEWS_AND_MAGAZINES,play.google.com,INFO

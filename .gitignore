@@ -1,0 +1,5 @@
+Data/Interval/*/location_stay.csv
+Data/Interval/*/app_usage_package.csv
+Data/Meta/poi_category.csv
+**/__pycache__
+Log
