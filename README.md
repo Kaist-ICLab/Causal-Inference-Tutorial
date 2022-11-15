@@ -1,4 +1,4 @@
-# Causal Inferences on Human Behavior with Observational Mobile Sensor Data: A Tutorial
+# A Tutorial on Causal Analysis of Human Behavior Using Mobile Sensor Data
 
 This repository includes:
 
