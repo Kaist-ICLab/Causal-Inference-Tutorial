@@ -1,4 +1,4 @@
-# A Tutorial on Causal Analysis of Human Behavior Using Mobile Sensor Data
+# A Tutorial on Matching-based Causal Analysis of Human Behavior Using Smartphone Sensor Data
 
 This repository includes:
 
